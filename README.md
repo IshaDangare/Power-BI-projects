@@ -1,5 +1,6 @@
 # Road Accident Analysis Dashboard  
-[Road Accident Dashboard](https://github.com/IshaDangare/Power-BI-projects/blob/main/Road%20Accident%20Analysis%20Dashboard.png)
+[Road Accident Dashboard]
+https://github.com/IshaDangare/Power-BI-projects/blob/main/Road%20Accident%20Analysis%20Dashboard.png
 
 ## 📘 Overview  
 The **Road Accident Analysis Dashboard** provides a comprehensive overview of road accident data to uncover patterns and insights that can help improve road safety and reduce casualties.  
