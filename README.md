@@ -1,6 +1,3 @@
-# Road Accident Analysis Dashboard  
-![Road Accident Dashboard preview](https://github.com/IshaDangare/Power-BI-projects/blob/main/Road%20Accident%20Analysis%20Dashboard.png)
-
 ## 📘 Overview  
 The **Road Accident Analysis Dashboard** provides a comprehensive overview of road accident data to uncover patterns and insights that can help improve road safety and reduce casualties.  
 It visually represents how various factors — such as **vehicle type, light conditions, urban/rural divide, and road type** — impact accident severity and frequency.
@@ -70,4 +67,8 @@ It visually represents how various factors — such as **vehicle type, light con
 `#PowerBI` `#DataAnalysis` `#DataVisualization` `#Dashboard` `#RoadSafety` `#DAX` `#Excel` `#KaggleData`
 
 > 💡 **Developed by:** *[Isha Dangare]*  
-> 🎓 *Data Analyst | Power BI Enthusiast | Dashboard Designer*  
+> 🎓 *Data Analyst | Power BI Enthusiast | Dashboard Designer*
+> 
+# Road Accident Analysis Dashboard  
+![Road Accident Dashboard preview](https://github.com/IshaDangare/Power-BI-projects/blob/main/Road%20Accident%20Analysis%20Dashboard.png)
+
